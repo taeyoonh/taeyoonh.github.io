@@ -1,9 +1,8 @@
 # main links
 main:
   - title: "For better tomorrow"
-    url: "https://taeyoonh.github.io/"
-  - title: "About"
-    url: "/about/"
+    url: https://taeyoonh.github.io/
+  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
