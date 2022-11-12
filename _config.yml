@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "github blog project"
   location         : "South Korea"
-  email            : "taeyoonh@unist.ac.kr"
+  email            : #"taeyoonh@unist.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
