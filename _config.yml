@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "taeyoonh@unist.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url: "https://taeyoonh.github.io/"
+      url: "https://taeyoonh.github.io/"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
