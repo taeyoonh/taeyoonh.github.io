@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "taeyoonh"
-  avatar           : "Grand_canyon_photo.jpg"
+  avatar           : "/assets/photo/Grand-Canyon-National-Park.jpg"
   bio              : "github blog project"
   location         : "South Korea"
   email            : #"taeyoonh@unist.ac.kr"
